@@ -1,1 +1,2 @@
-Here is the cide for new Igors Feature.
+Here is the code for new Igors Feature.
+Here are the changes in the new feature.
